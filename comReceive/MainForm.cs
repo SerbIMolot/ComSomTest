@@ -14,6 +14,7 @@ using System.IO.Ports;
 
 namespace comReceive
 {
+	// Another meaningless comment
 	/// <summary>
 	/// Description of MainForm.
 	/// </summary>

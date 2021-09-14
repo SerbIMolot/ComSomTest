@@ -16,7 +16,7 @@ namespace Tester
             //create autocomplete popup menu
             popupMenu = new FastColoredTextBoxNS.AutocompleteMenu(fctb);
             popupMenu.MinFragmentLength = 2;
-
+			//Meaningless comment for testing
             //generate 456976 words
             var randomWords = new List<string>();
             int codeA = Convert.ToInt32('a');

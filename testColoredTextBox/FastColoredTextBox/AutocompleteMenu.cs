@@ -26,7 +26,6 @@ namespace FastColoredTextBoxNS
         /// Minimum fragment length for popup
         /// </summary>
         public int MinFragmentLength { get; set; }
-        public int MAsnFragmentLength { get; set; }
         /// <summary>
         /// User selects item
         /// </summary>
