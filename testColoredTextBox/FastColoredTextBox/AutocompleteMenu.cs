@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 using System.Drawing;
@@ -26,6 +26,7 @@ namespace FastColoredTextBoxNS
         /// Minimum fragment length for popup
         /// </summary>
         public int MinFragmentLength { get; set; }
+        public int MAsnFragmentLength { get; set; }
         /// <summary>
         /// User selects item
         /// </summary>
