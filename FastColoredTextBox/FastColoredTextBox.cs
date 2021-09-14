@@ -5076,7 +5076,7 @@ namespace FastColoredTextBoxNS
                 if (ShowLineNumbers)
                 {
                     var lineNumber = iLine + (int)lineNumberStartValue;
-                    var lineNumberText = LineNumberFormatting?.FromLineNumberToString(lineNumber) ?? $"{lineNumber}";
+                    var lineNumberText = LineNumberFormatting.FromLineNumberToString(lineNumber) ?? lineNumber.ToString();
 
                     using (var lineNumberBrush = new SolidBrush(LineNumberColor))
                         e.Graphics.DrawString(lineNumberText, Font, lineNumberBrush,
