@@ -1,0 +1,5 @@
+D:\Serb\Projects\ComForm\ComForm\ComSender\bin\Debug\ComSender.exe
+D:\Serb\Projects\ComForm\ComForm\ComSender\bin\Debug\ComSender.pdb
+D:\Serb\Projects\ComForm\ComForm\ComSender\obj\x86\Debug\ComSender.csprojResolveAssemblyReference.cache
+D:\Serb\Projects\ComForm\ComForm\ComSender\obj\x86\Debug\ComSender.exe
+D:\Serb\Projects\ComForm\ComForm\ComSender\obj\x86\Debug\ComSender.pdb

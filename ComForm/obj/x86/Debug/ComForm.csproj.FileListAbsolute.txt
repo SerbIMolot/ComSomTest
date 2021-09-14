@@ -1,0 +1,7 @@
+D:\Serb\Projects\ComForm\ComForm\ComForm\bin\Debug\ComForm.exe
+D:\Serb\Projects\ComForm\ComForm\ComForm\bin\Debug\ComForm.pdb
+D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.csprojResolveAssemblyReference.cache
+D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.MainForm.resources
+D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.csproj.GenerateResource.Cache
+D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.exe
+D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.pdb
