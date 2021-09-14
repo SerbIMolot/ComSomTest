@@ -19,7 +19,7 @@ namespace FastColoredTextBoxNS
         public Range Fragment { get; internal set; }
 
         /// <summary>
-        /// Regex pattern for serach fragment around caret
+        /// Regex pattern for serach fragment around caretôöâôöâôöâôöâôöôöâôöâ
         /// </summary>
         public string SearchPattern { get; set; }
         /// <summary>
