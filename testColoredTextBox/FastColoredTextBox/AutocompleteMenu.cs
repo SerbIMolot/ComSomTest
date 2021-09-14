@@ -24,6 +24,7 @@ namespace FastColoredTextBoxNS
         public string SearchPattern { get; set; }
         /// <summary>
         /// Minimum fragment length for popup
+		/// Meaningless comment
         /// </summary>
         public int MinFragmentLength { get; set; }
         /// <summary>
