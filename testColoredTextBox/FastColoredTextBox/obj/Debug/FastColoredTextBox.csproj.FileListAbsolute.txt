@@ -1,0 +1,12 @@
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.csprojResolveAssemblyReference.cache
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.HotkeysEditorForm.resources
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.csproj.GenerateResource.Cache
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+D:\Serb\Projects\Gitest\ComForm3\testColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
