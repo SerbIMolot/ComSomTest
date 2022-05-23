@@ -1,7 +1,0 @@
-D:\Serb\Projects\ComForm\ComForm\ComForm\bin\Debug\ComSender.exe
-D:\Serb\Projects\ComForm\ComForm\ComForm\bin\Debug\ComSender.pdb
-D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComForm.MainForm.resources
-D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComSender.csproj.GenerateResource.Cache
-D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComSender.exe
-D:\Serb\Projects\ComForm\ComForm\ComForm\obj\x86\Debug\ComSender.pdb
-D:\Serb\Projects\ComForm\ComForm\ComForm\bin\Debug\ComSender.exe.config

@@ -1,6 +1,0 @@
-D:\Serb\Projects\ComForm\ComForm\comReceive\bin\Debug\comReceive.exe
-D:\Serb\Projects\ComForm\ComForm\comReceive\obj\x86\Debug\comReceive.exe
-D:\Serb\Projects\ComForm\ComForm\comReceive\obj\x86\Debug\comReceive.MainForm.resources
-D:\Serb\Projects\ComForm\ComForm\comReceive\obj\x86\Debug\comReceive.csproj.GenerateResource.Cache
-D:\Serb\Projects\ComForm\ComForm\comReceive\bin\Debug\comReceive.exe.config
-D:\Serb\Projects\ComForm\ComForm\comReceive\obj\x86\Debug\comReceive.csprojResolveAssemblyReference.cache
