@@ -1,0 +1,9 @@
+[submodule "ConForm"]
+	path = ConForm
+	url = https://github.com/SerbIMolot/ConForm
+[submodule "ComSender"]
+	path = ComSender
+	url = https://github.com/SerbIMolot/ComSender
+[submodule "comReceive"]
+	path = comReceive
+	url = https://github.com/SerbIMolot/comReceive
